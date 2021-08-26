@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(50, 50, 80);
+}
+.box{
+    background: black;
+    border-radius: 100000px;
+    width: 500px;
+    height: auto;
+   
+}
+.info{
+    color:white;
+    
+}
+.box h1{
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+} 
+.gambar{
+    height: 200px;
+}
+.fb{
+    color: white;
+}
+.fb:hover{
+    color: red;
+  
+    
+}
+.box input[type = "submit"]:hover{
+    border-color: red;
+    width: 300px;
+    border-radius: 100px ;
+    background-color: greenyellow;
+}
+.box input[type = "submit"]{
+    width: 100px;
+    height: 50px;
+    border-radius: 1000px;
+}
+.box input[type = "text"]:hover{
+    border-color:red;
+    width: 300px;
+    border-radius: 100px;
+    background-color: greenyellow;
+   
+
+}
+.box input[type="text"]{
+width: 200px;
+border-radius: 24px;
+height: 50px;
+text-align: center;
+margin:5px auto;
+}
+.box input[type = "password"]:hover{
+    border-color:red;
+    width: 300px;
+    border-radius: 100px;
+    background-color: greenyellow;
+   
+
+}
+.box input[type="password"]{
+width: 200px;
+border-radius: 24px;
+height: 50px;
+text-align: center;
+margin:5px auto;
+}
